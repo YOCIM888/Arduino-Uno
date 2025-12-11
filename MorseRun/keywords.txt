@@ -1,0 +1,6 @@
+# MorseRun
+MorseRun KEYWORD1
+Morse KEYWORD1
+
+begin KEYWORD2
+run KEYWORD2
